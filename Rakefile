@@ -21,6 +21,12 @@ def check_destination
   end
 end
 
+#############################################################################
+#
+# Site tasks
+#
+#############################################################################
+
 namespace :site do
   desc "Generate the site"
   task :build do
