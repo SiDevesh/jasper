@@ -7,11 +7,11 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Resonating Words'
+description: "A beautiful narrative of poens written in hindi."
 
 # Author's info
-author: 'Ransom McParseface'
+author: 'Random McParseface'
 # edit 'categories' in the front matter of every post to match this username
 nickname: raccoon
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
