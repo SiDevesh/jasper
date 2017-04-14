@@ -8,14 +8,14 @@ language: 'en-uk'
 
 # Website info
 name: 'Resonating Words'
-description: "A beautiful narrative of poens written in hindi."
+description: "A beautiful narrative of poems written in hindi."
 
 # Author's info
-author: 'Random McParseface'
+author: 'Rashmi'
 # edit 'categories' in the front matter of every post to match this username
-nickname: raccoon
+nickname: rashmi
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Bangalore, India'
+location: 'Ranchi, India'
 url: 'http://sidevesh.github.io/jasper-lit-blog/'
 image: 'assets/images/casper.png'
 
