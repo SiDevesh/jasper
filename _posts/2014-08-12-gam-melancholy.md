@@ -1,9 +1,9 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
+cover: 'assets/images/tree-1767144_1920-min.jpg'
 title: Melancholy
 date:   2014-08-12 10:18:00
-tags: fables fiction
+tags: emotions sad melancholy
 subclass: 'post tag-test tag-content'
 categories: 'rashmi'
 navigation: True

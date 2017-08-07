@@ -1,9 +1,9 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
+cover: 'assets/images/bicycle-1867046_1920-min.jpg'
 title: ANEKROOPI
 date:   2014-08-12 10:18:00
-tags: fables fiction
+tags: women anekroopi
 subclass: 'post tag-test tag-content'
 categories: 'rashmi'
 navigation: True
