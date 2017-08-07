@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>sidevesh.github.io/jasper-lit-blog/</title>
+   
+   <link>http://sidevesh.github.io/jasper-lit-blog/</link>
+   <description>A beautiful narrative of poems written in hindi.</description>
+   <language>en-uk</language>
+   <managingEditor> Rashmi</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Holika</title>
+	  <link>/jasper-lit-blog//holika</link>
+	  <author>Rashmi</author>
+	  <pubDate>2014-08-12T10:18:00+00:00</pubDate>
+	  <guid>/jasper-lit-blog//holika</guid>
+	  <description><![CDATA[
+	     <p><i>
+आज होलिका की अग्नि में<br />
+आहूत करें दुर्बलता सारी,<br />
+ईर्ष्या -द्वेष- बैर- वैमनस्य<br />
+प्रतिद्वंदिता मारा-मारी,<br />
+इनपर सतरंगी परत चढ़ा दें<br />
+फागुन के रंगों में रंगकर<br />
+इक नया रंगीला जहां बसा दें<br />
+जहाँ नहीं कोई भेद-भाव हो,<br />
+जाति धर्म की नहीं लड़ाई,<br />
+प्यार के रंग में रंगे हों सारे<br />
+जीते कोई न कोई हारे,<br />
+भूल के सब संग खेलें होली<br />
+क्या बेगानों क्या अपनों की टोली……<br />
+</i></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

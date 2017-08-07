@@ -690,7 +690,10 @@ body.nav-opened .nav {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    position: absolute;
+    /*position: absolute;*/
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
     bottom: 30px;
     left: 30px;
     right: 30px;
